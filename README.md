@@ -1,13 +1,15 @@
-### Hi there 👋 💻 
+### Hi there. I'm Vitor. 👋 💻 
 
 Information Systems Student. 📚
 
 In search of practices and knowledge in essential programming languages, for science and data analysis. 📊 📉
 
 **Currently :** Marketing Cloud Analyst ☁ 
-{: dfgdfgg.gitlab-orange}
 
+#### Top Programming languages
 
+Python 🐍
+SQL 🎲
 
 <!--
 **Vvitoor21/Vvitoor21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
