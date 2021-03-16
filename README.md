@@ -1,6 +1,7 @@
 ### Hi there 👋 💻 
 
 Estudante de Sistemas de Informação.🖥️
+
 Em busca de práticas e conhecimentos em linguagens de programação essenciais para a análise e ciência de dados.📊 📈 📉
 
 
