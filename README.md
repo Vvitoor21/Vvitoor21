@@ -5,9 +5,7 @@ Information Systems Student. 📚
 In search of practices and knowledge in essential programming languages, for science and data analysis. 📊 📉
 
 **Currently :** Marketing Cloud Analyst ☁ 
-
-### GitLab Orange Heading
-{: .gitlab-orange}
+{: dfgdfgg.gitlab-orange}
 
 
 
