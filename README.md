@@ -8,8 +8,8 @@ In search of practices and knowledge in essential programming languages, for sci
 
 #### Top Programming languages
 
--Python 🐍
--SQL 🎲
+- Python 🐍
+- SQL 🎲
 
 <!--
 **Vvitoor21/Vvitoor21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
