@@ -1,5 +1,9 @@
 ### Hi there 👋 💻 
 
+Estudante de Sistemas de Informação.🖥️
+Em busca de práticas e conhecimentos em linguagens de programação essenciais para a análise e ciência de dados.📊 📈 📉
+
+
 <!--
 **Vvitoor21/Vvitoor21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
