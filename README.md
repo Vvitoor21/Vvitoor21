@@ -1,9 +1,10 @@
 ### Hi there 👋 💻 
 
-Estudante de Sistemas de Informação.🖥️
+Information Systems Student.🖥️
 
 Em busca de práticas e conhecimentos em linguagens de programação essenciais para a análise e ciência de dados.📊 📈 📉
 
+**Currently :** Marketing Cloud Analyst ☁ 
 
 <!--
 **Vvitoor21/Vvitoor21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
