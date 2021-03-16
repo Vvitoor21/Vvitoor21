@@ -4,7 +4,7 @@
 
 In search of practices and knowledge in essential programming languages, for science and data analysis. 📊 📉 
 
-**Currently :** Marketing Cloud Analyst ☁ 
+    **Currently :** Marketing Cloud Analyst ☁ 
 
 #### Top Programming languages
 
