@@ -4,12 +4,14 @@
 
 In search of practices and knowledge in essential programming languages, for science and data analysis. 📊 📉 
 
-    **Currently :** Marketing Cloud Analyst ☁ 
+**Currently :** Marketing Cloud Analyst ☁ 
 
 #### Top Programming languages
 
 - Python 🐍
 - SQL 🎲
+
+Access my [LinkedIn](https://www.linkedin.com/in/vitor-duarte-bem-3b0673166/). 
 
 <!--
 **Vvitoor21/Vvitoor21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
