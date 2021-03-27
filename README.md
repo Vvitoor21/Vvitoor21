@@ -12,6 +12,7 @@ In search of practices and knowledge in essential programming languages, for sci
   
 - Python 🐍 (Main libraries : Pandas 🐼, Numpy 🔳 and Matplotlib 📊 )
 - T-SQL 🎲
+- R
 
 Access my [LinkedIn](https://www.linkedin.com/in/vitor-duarte-bem-3b0673166/). 
 
