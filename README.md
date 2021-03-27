@@ -11,7 +11,7 @@ In search of practices and knowledge in essential programming languages, for sci
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 - Python 🐍 (Main libraries : Pandas 🐼, Numpy 🔳 and Matplotlib 📊 )
-- SQL 🎲
+- T-SQL 🎲
 
 Access my [LinkedIn](https://www.linkedin.com/in/vitor-duarte-bem-3b0673166/). 
 
