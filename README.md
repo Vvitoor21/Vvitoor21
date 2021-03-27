@@ -8,8 +8,7 @@ In search of practices and knowledge in essential programming languages, for sci
 
 #### Top Programming languages
 
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <p align="left">
- <nav>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <p align="left"><nav>
             <ul>
                 <li><a href="http://www.caelum.com.br">Mousse de Maracujá</a></li>
                 <li><a href="http://www.caelum.com.br">Torta de Chocolate</a></li>
