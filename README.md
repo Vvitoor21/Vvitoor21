@@ -8,7 +8,7 @@ In search of practices and knowledge in essential programming languages, for sci
 
 #### Top Programming languages
 
-<p align="left"><div> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> <p align="left">
+<p align="left"><div> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="java" width="40" height="40"/> </a> </p> <p align="left">
   
 - Python 🐍 (Main libraries : Pandas 🐼, Numpy 🔳 and Matplotlib 📊 )
 - T-SQL 🎲
