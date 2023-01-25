@@ -4,8 +4,6 @@
 
 In search of practices and knowledge in essential programming languages, for science and data analysis.
 
-**Currently :** Marketing Cloud Analyst ☁ 
-
 #### Top Programming languages
 
 <p align="left"><div> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> </a> </p> <p align="left">
