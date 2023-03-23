@@ -1,7 +1,5 @@
 ### Hi there. I'm Vitor. 👋 💻 
 
-**I am an Analyst and Information Systems Student.** 📚
-
 In search of practices and knowledge in essential programming languages, for science and data analysis.
 
 #### Top Programming language
