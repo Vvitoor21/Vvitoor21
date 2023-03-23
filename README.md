@@ -4,13 +4,11 @@
 
 In search of practices and knowledge in essential programming languages, for science and data analysis.
 
-#### Top Programming languages
+#### Top Programming language
 
 <p align="left"><div> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> </a> </p> <p align="left">
-<p align="left"><div> <a href="https://www.python.org" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAK_p8luU2Q0b-PBQnIZC9jqD46ugFSllE4Q&usqp=CAU)" alt="python" width="40" height="40"/></a> </a> </p> <p align="left">
   
-  
-  
+ 
 - Python 🐍 (Main libraries : Pandas 🐼, Numpy 🔳, Matplotlib and Seaborn 📊 )
 - T-SQL 🎲
 
