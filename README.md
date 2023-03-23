@@ -8,7 +8,7 @@ In search of practices and knowledge in essential programming languages, for sci
   
  
 - Python 🐍 (Main libraries : Pandas 🐼, Numpy 🔳, Matplotlib and Seaborn 📊 )
-- T-SQL 🎲
+- T-SQL | PL-SQL 🎲
 
 Access my [LinkedIn](https://www.linkedin.com/in/vitor-duarte-bem-3b0673166/). 
 
