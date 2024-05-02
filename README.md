@@ -1,6 +1,6 @@
 ### Hi there. I'm Vitor. 👋 💻 
 
-I live practicing and getting knowledge in essential programming languages, for science and data analysis.
+I am practicing and getting knowledge in essential programming languages, for science and data analysis.
 
 #### Top Programming languages: 
 
